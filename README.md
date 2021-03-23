@@ -7,4 +7,4 @@
   
 ## Logistic Regression
   - [logistic-regression.ipynb](https://github.com/grecosalvatore/CS229-Stanford-Machine-Learning/blob/main/logistic-regression/logistic-regression.ipynb):
-  - [newtons-method.ipynb]
+  - [newtons-method.ipynb](https://github.com/grecosalvatore/CS229-Stanford-Machine-Learning/blob/main/logistic-regression/newtons-method.ipynb)
