@@ -1,4 +1,4 @@
-# cs229-stanford-machine-learning
+# CS229-Stanford-Machine-Learning
 
 ## Linear Regression
  - [linear-regression.ipynb](https://github.com/grecosalvatore/CS229-Stanford-Machine-Learning/blob/main/linear-regression/linear-regression.ipynb): Implementation of **Linear Regression** with `Batch Gradient Descent`, `Stochastic Gradient Descent`, `Mini-Batch Gradient Descent` and `Vectorization`.
